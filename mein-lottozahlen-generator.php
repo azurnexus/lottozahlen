@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Mein Lottozahlen Generator
- * Description: Definiert einen Shortcode [lottozahlen] , um Lottozahlen im Inhalt auszugeben.
+ * Description: Definiert einen Shortcode [lottozahlen] , um Lottozahlen im Inhalt auszugeben. Dieser Code ist ein WordPress Plugin. 
  * Version:     1.0.0
  * Author:      Ksynsky
  */
